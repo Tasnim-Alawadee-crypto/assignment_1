@@ -1,4 +1,4 @@
-Name: Tasnim Al-Awadhi
+Name: Tasnim Al-Awadee
 Major: AI
 Course: Data Structures
 Assignment: Assignment 1 (Individual Questions)
