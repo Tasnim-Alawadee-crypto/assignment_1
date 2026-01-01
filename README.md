@@ -1,4 +1,4 @@
-                Name: Tasneem Al-Awadhi
+Name: Tas
 Major: AI
 Course: Data Structures
 Assignment: Assignment 1 (Individual Questions)
